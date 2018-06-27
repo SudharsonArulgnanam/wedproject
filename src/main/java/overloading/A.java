@@ -25,7 +25,10 @@ public  class A {
 		
 		System.out.println("arun");
 	}
-		
+		static void example()
+		{
+			System.out.println("New");
+		}
 		
 
 	}
