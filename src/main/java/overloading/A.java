@@ -15,11 +15,15 @@ public  class A {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		A obj= new A();
+		
 		System.out.println(obj.add(1,7));
 		System.out.println(obj.add(5,30000.56666,6.7));
 		System.out.println("sudharsom");
 		System.out.println("Muthu");
 
+		
+		
+		System.out.println("arun");
 	}
 		
 		
