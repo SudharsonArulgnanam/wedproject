@@ -18,6 +18,8 @@ public  class A {
 		System.out.println(obj.add(1,7));
 		System.out.println(obj.add(5,30000.56666,6.7));
 		System.out.println("sudharsom");
+		System.out.println("Muthu");
+
 	}
 		
 		
