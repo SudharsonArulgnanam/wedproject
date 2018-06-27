@@ -17,6 +17,7 @@ public  class A {
 		A obj= new A();
 		System.out.println(obj.add(1,7));
 		System.out.println(obj.add(5,30000.56666,6.7));
+		System.out.println("Muthu");
 	}
 		
 		
